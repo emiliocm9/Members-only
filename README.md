@@ -25,9 +25,9 @@ You can get a local copy of the repository please run the following commands on 
 
 - If you run the follow command on your terminal, you will be able to run the code on your web browser
 
-  ``bundle install``
+  ``$ bundle install``
 
-  ``rails db:migrate``
+  ``$ rails db:migrate``
   
   ``$ rails server``
 
