@@ -25,6 +25,10 @@ You can get a local copy of the repository please run the following commands on 
 
 - If you run the follow command on your terminal, you will be able to run the code on your web browser
 
+  ``bundle install``
+
+  ``rails db:migrate``
+  
   ``$ rails server``
 
 - This app allows users to create posts and the authors of the posts are displayed only if as a User you are logged in
