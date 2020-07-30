@@ -27,6 +27,8 @@ You can get a local copy of the repository please run the following commands on 
 
   ``$ bundle install``
 
+  ``$ rails db:create``
+
   ``$ rails db:migrate``
   
   ``$ rails server``
